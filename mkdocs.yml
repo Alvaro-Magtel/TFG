@@ -2,7 +2,7 @@ site_name: TFG
 repo_url: https://github.com/GitRadiation/TFG
 site_url: https://GitRadiation.github.io/TFG
 site_description: Proyecto para recomendar series, con una interfaz gráfica
-site_author: Álvaro Prieto Cano
+site_author: Alvaro Prieto Cano
 edit_uri: edit/main/docs/
 repo_name: GitRadiation/TFG
 copyright: Maintained by <a href="https://GitRadiation.com">Florian</a>.

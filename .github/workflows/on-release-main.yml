@@ -3,7 +3,6 @@ name: release-main
 on:
   release:
     types: [published]
-    branches: [main]
 
 jobs:
   deploy-docs:
@@ -17,4 +16,3 @@ jobs:
 
       - name: Deploy documentation
         run: poetry run mkdocs gh-deploy --force
-

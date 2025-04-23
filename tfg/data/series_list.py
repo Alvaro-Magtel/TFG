@@ -1,0 +1,23 @@
+def get_full_series_list():
+    return [
+        "Breaking Bad",
+        "Game of Thrones",
+        "Stranger Things",
+        "The Witcher",
+        "The Mandalorian",
+        "The Office",
+        "Friends",
+        "Sherlock",
+        "The Crown",
+        "Dark",
+        "Peaky Blinders",
+        "House of Cards",
+        "Ozark",
+        "Better Call Saul",
+        "Lupin",
+        "Black Mirror",
+        "Vikings",
+        "The Boys",
+        "The Umbrella Academy",
+        "Money Heist",
+    ]
